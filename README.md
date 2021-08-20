@@ -1,1 +1,1 @@
-Trying out a function to capitalise ONLY the first character of a string, regardless of that word being parsed as all caps
+Trying out different functions to manipulate a different index of a parsed string
